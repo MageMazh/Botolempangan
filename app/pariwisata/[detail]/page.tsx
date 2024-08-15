@@ -8,12 +8,11 @@ function DetailWisata() {
     { url: "/images/karst-1.webp" },
     { url: "/images/karst-2.webp" },
     { url: "/images/karst-3.webp" },
-    { url: "/images/karst-4.webp" },
-    { url: "/images/karst-5.jpg" },
+    { url: "/images/karst-10.jpg" },
+    { url: "/images/karst-5.webp" },
     { url: "/images/karst-6.jpg" },
     { url: "/images/karst-7.webp" },
     { url: "/images/karst-8.webp" },
-
   ];
 
   return (
