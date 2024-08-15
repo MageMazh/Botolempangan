@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import Image from 'next/image'
 import 'leaflet/dist/leaflet.css';
@@ -6,7 +7,7 @@ import dynamic from 'next/dynamic';
 
 function Footer() {
   const Maps = dynamic(() => import('../Maps'), { ssr: false });
-  
+
   return (
     <div className="bottom-0">
     <div className="bg-[#875A23] grid md:grid-cols-2 gap-8 p-14">
