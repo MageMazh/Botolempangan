@@ -1,8 +1,6 @@
-"use client";
 import React from "react";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
-import "@madzadev/image-slider/dist/index.css";
 import Image from "next/image";
 
 export default function Sejarah() {
